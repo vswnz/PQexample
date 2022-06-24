@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=CarDealer
+comment1.params=
+comment1.target=CarDealer()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ queueOfCars\r\n
+comment2.params=
+comment2.target=Car\ collectInformation()
+numComments=3

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=PQueue
+comment0.text=\r\n\ PQueue\ here.\ \ A\ wrap-around\ that\ uses\ an\ existing\ queue\ class\ to\ make\ a\ priority\ queue.\r\n\ \r\n\ Enqueue\ takes\ a\ boolean,\ which\ tells\ you\ whether\ it\ is\ high\ priority\ or\ not.\r\n\r\n\ @author\ Bill\r\n\ @version\ 12-Apr-2021\r\n
+comment1.params=
+comment1.target=PQueue()
+comment2.params=name\ high
+comment2.target=void\ enqueue(java.lang.Object,\ boolean)
+comment3.params=name
+comment3.target=void\ enqueue(java.lang.Object)
+comment4.params=
+comment4.target=java.lang.Object\ dequeue()
+comment5.params=
+comment5.target=boolean\ queueEmpty()
+numComments=6

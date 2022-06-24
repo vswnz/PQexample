@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Element
+comment0.text=\r\n\ Element\ in\ a\ queue.\r\n\r\n\ @author\ \ Bill\ Viggers\r\n\ @version\ 21-May-2020\r\n\r\n\r\n\ \ This\ is\ a\ very\ simiple\ generic\ class.\r\n\ \ Each\ element\ holds\ something,\ and\ a\ link\ to\ the\ thing\ in\ the\ queue\ that\ \r\n\ \ follows\ it.\r\n\ \ \r\n
+comment1.params=putIn
+comment1.target=Element(java.lang.Object)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Element\r\n\ Give\ it\ the\ contents,\ and\ who\ comes\ after\ it.\r\n\ \r\n
+comment2.params=followingMe
+comment2.target=void\ setFollows(Element)
+comment2.text=\r\n\ \ Set\ the\ identity\ of\ the\ element\ that\ follows\ me.\ \r\n
+comment3.params=
+comment3.target=Element\ getFollows()
+comment3.text=\r\n\ Find\ out\ the\ identity\ of\ the\ element\ that\ follows\ me\r\n
+comment4.params=
+comment4.target=java.lang.Object\ getValue()
+comment4.text=\r\n\ Say\ what\ element\ is\ actually\ being\ held.\r\n
+numComments=5

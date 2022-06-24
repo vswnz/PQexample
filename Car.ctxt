@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Car
+comment0.text=\r\n\ Car\ class\r\n\ This\ class\ remembers\ information\ for\ cars\ that\ \r\n\ have\ been\ ordered.\ \ It\ holds\ the\ car\ make,\ the\ colour\r\n\ and\ the\ date\ the\ order\ was\ put\ in.\r\n\r\n\ @author\ Bill\r\n\ @version\ 24-Jun-2022\r\n
+comment1.params=mod\ col\ dt
+comment1.target=Car(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Car\r\n
+comment2.params=
+comment2.target=void\ printCar()
+comment3.params=
+comment3.target=java.lang.String\ model()
+comment4.params=
+comment4.target=java.lang.String\ colour()
+comment5.params=
+comment5.target=java.lang.String\ date()
+numComments=6
